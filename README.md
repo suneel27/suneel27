@@ -1,16 +1,10 @@
-# Title of the Repository
+# Suneel
 
-## Introduction  
-This is a brief introduction to the repository.
+👋 Hi! I'm Suneel, a Full-Stack Developer with a passion for creating dynamic and responsive web applications. 
 
-## Installation  
-Instructions for installation.
+## About Me
 
-## Usage  
-Instructions on how to use the project.
+- 🌱 I’m currently learning more about cloud computing and server management.
+- 🔗 [My Portfolio](https://suneel27.github.io/commit/)
 
-## License  
-Details about the license.
-
-## Contributing  
-Information about contributing to the project.
+Feel free to connect with me on GitHub and explore my repositories!
