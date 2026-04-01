@@ -1,16 +1,14 @@
-## Hi there 👋
+# Suneel
 
-<!--
-**suneel27/suneel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm Suneel, a Full-Stack Developer with a passion for creating dynamic and responsive web applications. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning more about cloud computing and server management.
+- 🔗 [My Portfolio](https://suneel27.github.io/commit/)
+
+## GitHub Contributions
+
+![Suneel's GitHub Contribution Graph](https://github.com/suneel27.png)
+
+Feel free to connect with me on GitHub and explore my repositories!
