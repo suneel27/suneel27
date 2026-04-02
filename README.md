@@ -1,10 +1,22 @@
-# Suneel
+# Suneel Kumar - Software Developer
 
-👋 Hi! I'm Suneel, a Full-Stack Developer with a passion for creating dynamic and responsive web applications. 
+## Profile Summary
+Dynamic software developer with a passion for innovative technology and a robust skill set in software development and programming. I am enthusiastic about building scalable applications and solving complex problems.
 
-## About Me
+## Highlights
+- Experienced in both frontend and backend development
+- Proficient in collaborating with cross-functional teams
+- Strong ability to troubleshoot and debug software
 
-- 🌱 I’m currently learning more about cloud computing and server management.
-- 🔗 [My Portfolio](https://suneel27.github.io/commit/)
+## Tech Stack
+- **Languages**: Python, JavaScript, Java
+- **Frameworks**: React, Node.js, Flask
+- **Tools**: Git, Docker, Jenkins
+- **Databases**: MySQL, MongoDB
 
-Feel free to connect with me on GitHub and explore my repositories!
+## Links
+- [Portfolio](https://your-portfolio-link.com)
+- [GitHub](https://github.com/suneel27)
+
+## Contact
+Feel free to reach out via email at [your-email@example.com] for any inquiries or collaboration opportunities.
