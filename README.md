@@ -17,6 +17,3 @@ Dynamic software developer with a passion for innovative technology and a robust
 ## Links
 - [Portfolio](https://suneel27.github.io/commit/)
 - [GitHub](https://github.com/suneel27)
-
-## Contact
-Feel free to reach out via email at [your-email@example.com] for any inquiries or collaboration opportunities.
