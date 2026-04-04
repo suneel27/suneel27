@@ -5,7 +5,6 @@ Dynamic software developer with a passion for innovative technology and a robust
 
 ## Highlights
 - Experienced in both frontend and backend development
-- Proficient in collaborating with cross-functional teams
 - Strong ability to troubleshoot and debug software
 
 ## Tech Stack
