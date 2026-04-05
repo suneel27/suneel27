@@ -8,7 +8,7 @@ Dynamic software developer with a passion for innovative technology and a robust
 - Strong ability to troubleshoot and debug software
 
 ## Tech Stack
-- **Languages**: Python, JavaScript, Java
+- **Languages**: Python, JavaScript, Java, C
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Git, Docker, Jenkins
 - **Databases**: MySQL, MongoDB
