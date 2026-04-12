@@ -9,9 +9,9 @@ Dynamic software developer with a passion for innovative technology and a robust
 
 ## Tech Stack
 - **Languages**: Python, JavaScript, Java, C
-- **Frameworks**: React, Node.js, Flask
+- **Frameworks**: React, Node.js, Flask, ExpressJs
 - **Tools**: Git, Docker, Jenkins
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, PostgreSQL
 
 ## Links
 - [Portfolio](https://suneel27.github.io/commit/)
