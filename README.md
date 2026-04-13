@@ -1,4 +1,4 @@
-# Suneel Kumar - Software Developer
+# Suneel - Software Developer
 
 ## Profile Summary
 Dynamic software developer with a passion for innovative technology and a robust skill set in software development and programming. I am enthusiastic about building scalable applications.
