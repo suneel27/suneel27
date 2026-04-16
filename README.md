@@ -5,7 +5,7 @@ Dynamic software developer with a passion for innovative technology and a robust
 
 ## Highlights
 - Experienced in both frontend and backend development
-- Strong ability to troubleshoot and debug software
+- Strong ability to troubleshoot
 
 ## Tech Stack
 - **Languages**: Python, JavaScript, Java, C
