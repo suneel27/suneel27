@@ -14,5 +14,4 @@ Dynamic software developer with a passion for innovative technology and a robust
 - **Databases**: MySQL, PostgreSQL
 
 ## Links
-- [Portfolio](https://suneel27.github.io/commit/)
 - [GitHub](https://github.com/suneel27)
