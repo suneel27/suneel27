@@ -1,17 +1,1 @@
 # Suneel - Software Engineer
-
-## Profile Summary
-Dynamic software developer with a passion for innovative technology and a robust skill set in software development and programming.
-
-## Highlights
-- Experienced in both frontend and backend development
-- Strong ability to troubleshoot
-
-## Tech Stack
-- **Languages**: Python, JavaScript, Java, C
-- **Frameworks**: React, Node.js, Flask, ExpressJs
-- **Tools**: Git, Docker, Jenkins
-- **Databases**: MySQL, PostgreSQL
-
-## Links
-- [GitHub](https://github.com/suneel27)
